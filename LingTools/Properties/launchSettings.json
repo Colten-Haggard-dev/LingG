@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LingTools": {
+      "commandName": "Project",
+      "commandLineArgs": "generate_ast C:\\Users\\archi\\OneDrive\\Documents\\LingG\\AstOutput"
+    }
+  }
+}
